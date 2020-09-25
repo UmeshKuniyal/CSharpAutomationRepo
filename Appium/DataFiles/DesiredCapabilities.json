@@ -1,0 +1,11 @@
+﻿{
+"DeviceName":"device",
+"PlatformName":"android",
+"PackageActivity":"com.flipkart.android.activity.homefragmentholderactivity",
+"NoReset":"true",
+"AppPackage":"com.flipkart.android",
+"Udid":"emulator-5554",
+"PlatformVersion":"7.1.1",
+"App":"C:\\Users\\User\\Downloads\\com.flipkart.android.6.19.apk",
+"AppiumServerUrl":"http://127.0.0.1:4723/wd/hub"
+}

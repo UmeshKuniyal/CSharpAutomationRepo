@@ -1,0 +1,37 @@
+﻿{
+ "job": [
+		{
+			"id": 1,
+			"name": "Umesh",
+			"designation": "Sr QA Professional"
+		},
+		{
+			"id": 2,
+			"name": "Swati",
+			"designation": "Integration Engineer"
+		},
+		{
+			"id": 3,
+			"name": "Suprokas",
+			"designation": "Python Developer"
+		}
+	],
+	"students": [
+		{
+		"rno" : 1,
+		"house": "red",
+		"percentage": "75"
+		},
+		{
+		"rno" : 2,
+		"house": "yellow",
+		"percentage": "43"
+		},
+		{
+		"rno" : 3,
+		"house": "blue",
+		"percentage": "73"
+		}
+	
+	]
+}

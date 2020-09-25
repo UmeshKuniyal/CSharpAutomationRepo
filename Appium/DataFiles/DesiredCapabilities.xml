@@ -1,0 +1,11 @@
+﻿<DataSource>
+  <DeviceName>a</DeviceName>
+  <PlatformName>a</PlatformName>
+  <PackageActivity>a</PackageActivity>
+  <NoReset>a</NoReset>
+  <AppPackage>a</AppPackage>
+  <Udid>a</Udid>
+  <PlatformVersion>a</PlatformVersion>
+  <App>a</App>
+  <AppiumServerUrl>a</AppiumServerUrl>
+</DataSource>
